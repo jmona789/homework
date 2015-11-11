@@ -1,3 +1,8 @@
+footer{
+  background-color: black;
+
+}
+
 .form-group{
   height: 25px;
 }
@@ -72,6 +77,11 @@ button {
 	margin: 0;
 	width: 100%;
 	padding: 0;
+  background-color: black;
+}
+
+#qtabs {
+  background-color: white;
 }
 
 .signuphead{
@@ -93,6 +103,18 @@ button {
 
 .more-opts{
   font-size: 11px;
+}
+
+#questioncon{
+background-color: white;
+}
+
+#question {
+  padding:0;
+}
+
+#more{
+  background-color: white;
 }
 
 element.style {
